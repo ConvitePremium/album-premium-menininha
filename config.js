@@ -4,7 +4,7 @@ window.ALBUM_CONFIG={
  bucket:"fotos-eventos",
  eventoId:"menininha",
  evento:{
-   titulo:"Álbum Menininha Premium",
+   titulo:"Álbum Helena Premium",
    subtitulo:"Um jardim de memórias para celebrar momentos encantadores."
  },
  moldura:"assets/moldura.png",
