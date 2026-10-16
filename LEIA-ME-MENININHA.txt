@@ -1,0 +1,11 @@
+ÁLBUM MENININHA PREMIUM — VITRINE DO CRIATIVO
+
+ID do evento no Supabase/painel: menininha
+Repositório sugerido no GitHub: menininha
+Tema: rosa pink, rosê e dourado.
+
+Esta versão mantém a publicação de fotos habilitada para visitantes.
+Cadastre o evento "menininha" no painel administrativo antes de publicar fotos.
+Troque assets/moldura.png pela moldura temática desejada (PNG transparente 9:16).
+As fotos do evento joicy-gabriely não serão exibidas neste álbum.
+A publicação deve ser testada após hospedar no GitHub Pages.
